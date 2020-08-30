@@ -1,0 +1,23 @@
+{
+  "name": "deploy-freemius",
+  "version": "1.0.0",
+  "description": "Deploys a release to Freemius via API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StylemixThemes/deploy-freemius-js.git"
+  },
+  "author": "Azamat X <azamat@stylemix.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StylemixThemes/deploy-freemius-js/issues"
+  },
+  "homepage": "https://github.com/StylemixThemes/deploy-freemius-js#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "needle": "^2.5.0"
+  }
+}
